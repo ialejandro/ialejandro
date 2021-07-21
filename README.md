@@ -9,8 +9,8 @@
 
 #### ☁️ Cloud Providers
 
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+[![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
 
 #### 🏗️ My common tools
 
@@ -21,7 +21,7 @@
 
 #### 🌐 Programming languages
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 
 ### My GitHub's activity
 
