@@ -4,8 +4,6 @@
 
 I'm a **Platform Engineer** with a strong focus on cloud infrastructure management, automation, and deployment pipelines. My expertise includes designing and managing Kubernetes clusters, automating infrastructure with Terraform and Ansible, and optimizing CI/CD pipelines.
 
-I am passionate about delivering secure, scalable, and efficient infrastructure solutions.
-
 ## 🚀 Skills and Technologies
 
 ### 🖥️ Cloud Platforms
