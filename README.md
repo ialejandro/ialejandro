@@ -10,7 +10,7 @@ I am passionate about delivering secure, scalable, and efficient infrastructure 
 
 ### 🖥️ Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛠️ Infrastructure as Code and Automations
