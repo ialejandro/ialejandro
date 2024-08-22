@@ -38,12 +38,5 @@ I am passionate about delivering secure, scalable, and efficient infrastructure 
 ## 📊 GitHub Stats and Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ialejandro&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialejandro)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ialejandro&layout=compact)
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ialejandro/)
-[![Google](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ialejandro.rocks)
